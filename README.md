@@ -30,7 +30,7 @@
 ### From Source
 
 ```bash
-git clone https://github.com/yourusername/fn-gen.git
+git clone https://github.com/G33kM4sT3r/fn-gen.git
 cd fn-gen
 make build
 ```
